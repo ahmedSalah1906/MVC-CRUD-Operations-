@@ -1,0 +1,29 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "courseDetalis";
+}
+
+<h1>courseDetalis</h1>
+
+<div class="container align-content-center">
+   <h2>@Model.Name</h2>
+    <div>
+        <strong>Department Id </strong>
+        <p>@Model.DepartmentId</p>
+    </div>
+    <div>
+        <strong>Degree of this course </strong>
+        <p>@Model.degree</p>
+    </div>
+    <div>
+        <strong>The Mineman Degree Requird To Pass This Course</strong>
+        <p>@Model.mindegree</p>
+
+    </div>
+    <div>
+        <a class="btn btn-outline-primary w-50" href="/Course/AllCourses">All Courses</a>
+
+    </div>
+
+</div>
+

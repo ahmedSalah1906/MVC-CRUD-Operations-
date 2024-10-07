@@ -1,0 +1,76 @@
+﻿@model MVC_day2_task1_the_lab_one.View_Model.InstructorModelViewBylistOfDep_Crs
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add Instructor</h1>
+<form method="post" asp-action="SaveAdd">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="address"></label>
+        <input asp-for="address" class="form-control" />
+        <span asp-validation-for="address" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="image_url"></label>
+        <input asp-for="image_url" class="form-control" />
+        <span asp-validation-for="image_url" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="salary"></label>
+        <input asp-for="salary" class="form-control" />
+        <span asp-validation-for="salary" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="DepartmentId">Department</label>
+        <select asp-for="DepartmentId" class="form-control" asp-items="@(new SelectList(Model.Departments, "Id", "Name"))" id="DepartmentId" onchange="getCoursesByDepartment()">
+            <option value="">Select Department</option>
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="CourseID">Course</label>
+        <select asp-for="CourseID" class="form-control" id="CourseID">
+            <option value="">Select Course</option>
+        </select>
+        <span asp-validation-for="CourseID" class="text-danger"></span>
+    </div>
+
+    <br />
+    <div>
+        <input type="submit" value="Create" class="btn btn-success" />
+    </div>
+</form>
+<hr />
+<a class="btn btn-outline-primary" asp-controller="Instructor" asp-action="Index">All Instructors</a>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+        function getCoursesByDepartment() {
+            var departmentId = $('#DepartmentId').val();
+            $.ajax({
+                url: '@Url.Action("GetCoursesRelatedToDept", "Instructor")',
+                type: 'GET',
+                data: { Id: departmentId },
+                success: function (courses) {
+                    console.log(courses)
+                    var courseDropdown = $('#CourseID');
+                    courseDropdown.empty();
+                    courseDropdown.append('<option value="">Select Course</option>');
+                    $.each(courses, function (index, course) {
+                        console.log (course)
+                        courseDropdown.append('<option value="' + course.id + '">' + course.name + '</option>');
+                    });
+                }
+            });
+        }
+    </script>
+}
+

@@ -1,0 +1,42 @@
+﻿@model List< Course>
+
+@{
+
+    ViewData["Title"] = "AllCourses";
+}
+
+<h1>AllCourses</h1>
+
+<table class="table table-bordered table-hover ">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Degree</th>
+        <th>Minimum Degree</th>
+        <th>Department ID</th>
+        <th> Actions </th>
+
+        
+    </tr>
+    @foreach(var course in Model)
+    {
+        <tr>
+            <td>@course.Id</td>
+            <td>@course.Name</td>
+            <td>@course.degree</td>
+            <td>@course.mindegree</td>
+            <td>@course.DepartmentId</td>
+            <td>
+                <button class="btn btn-outline-secondary" onclick="location.href='/Course/Edit?id=@course.Id'">Edit</button>
+
+                <button class="btn btn-primary" onclick="location.href='/Course/Detalis?id=@course.Id'">Details</button>
+           
+            </td>
+
+
+        </tr>
+    }
+</table>
+<a class="btn btn-outline-primary w-50" href="/Course/Add">Add New Course</a>
+
+
