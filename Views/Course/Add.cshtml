@@ -1,0 +1,47 @@
+﻿@model MVC_day2_task1_the_lab_one.View_Model.CourseWithListOfDepatment
+@{
+    ViewData["Title"] = "Add";
+    SelectList deptItems =
+        new SelectList(Model.departments, "Id", "Name");
+}
+
+<h1>Add</h1>
+<form asp-controller="Course" asp-action="SaveAdd" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+ <div >
+    <label asp-for="Name" ></label>
+    <input asp-for="Name" class="form form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="degree"></label>
+        <input asp-for="degree" class="form form-control"></input>
+        <span asp-validation-for="degree"></span>
+    </div>
+    <div>
+        <label asp-for="mindegree"></label>
+        <input asp-for="mindegree" class="form form-control"></input>
+        <span asp-validation-for="mindegree" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for=" Hours"></label>
+        <input asp-for=" Hours" class="form form-control "></input>
+        <span asp-validation-for="Hours"></span>
+    </div>
+    <div>
+        <label asp-for="DepartmentId"></label>
+        <select asp-for="DepartmentId" class="form form-control" asp-items="deptItems">
+            <option value="0">__ Select Department __</option>
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    <div>
+        <input type="submit" value="Add" class="btn btn-primary" /> 
+    </div>
+    
+</form>
+<a asp-controller="Course" asp-action="AllCourses">Back To List</a>
+<script src="/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+

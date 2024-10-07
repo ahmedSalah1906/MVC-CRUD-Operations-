@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MVC day2 task1 the lab one.props" />
+</Project>

@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|c:\\users\\softlaptop\\source\\repos\\mvc day2 task1 the lab one\\views\\instructor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\instructor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\view model\\coursewithlistofdepatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:view model\\coursewithlistofdepatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|c:\\users\\softlaptop\\source\\repos\\mvc day2 task1 the lab one\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\shared\\_navpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\shared\\_navpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\models\\institutecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:models\\institutecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\controllers\\applivationacountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:controllers\\applivationacountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\applivationacount\\registertion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\applivationacount\\registertion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\view model\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:view model\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\shared\\templet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\shared\\templet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\views\\course\\allcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:views\\course\\allcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498F9C4C-29AE-4D7B-B938-7FB21C787997}|MVC day2 task1 the lab one.csproj|solutionrelative:models\\uniqueattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Instructor\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Instructor\\Add.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:36:42.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T23:38:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T17:59:10.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T20:32:23.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseWithListOfDepatment.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\View Model\\CourseWithListOfDepatment.cs",
+              "RelativeDocumentMoniker": "View Model\\CourseWithListOfDepatment.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\View Model\\CourseWithListOfDepatment.cs",
+              "RelativeToolTip": "View Model\\CourseWithListOfDepatment.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:25:28.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Course\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Course\\Add.cshtml",
+              "RelativeToolTip": "Views\\Course\\Add.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T16:26:03.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_NavPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\_NavPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NavPartial.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\_NavPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NavPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T17:56:43.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:30:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:09:20.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Repository\\CourseRepository.cs",
+              "ViewState": "AQIAAA0AAADAtm1HLeE9wCEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:48:53.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T23:37:38.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstituteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\InstituteContext.cs",
+              "RelativeDocumentMoniker": "Models\\InstituteContext.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\InstituteContext.cs",
+              "RelativeToolTip": "Models\\InstituteContext.cs",
+              "ViewState": "AQIAAAEAAABo27aZhWE2wAsAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:25:25.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:24:06.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "Repository\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:10:22.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:39:02.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplivationAcountController.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Controllers\\ApplivationAcountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplivationAcountController.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Controllers\\ApplivationAcountController.cs",
+              "RelativeToolTip": "Controllers\\ApplivationAcountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:47:45.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:16:59.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\View Model\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "View Model\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\View Model\\RegisterViewModel.cs",
+              "RelativeToolTip": "View Model\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:20:25.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registertion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\ApplivationAcount\\Registertion.cshtml",
+              "RelativeDocumentMoniker": "Views\\ApplivationAcount\\Registertion.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\ApplivationAcount\\Registertion.cshtml",
+              "RelativeToolTip": "Views\\ApplivationAcount\\Registertion.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T10:32:45.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Instructor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Instructor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T00:19:41.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "templet.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\templet.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\templet.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Shared\\templet.cshtml",
+              "RelativeToolTip": "Views\\Shared\\templet.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB8AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T22:13:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "uniqueAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\uniqueAttribute.cs",
+              "RelativeDocumentMoniker": "Models\\uniqueAttribute.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Models\\uniqueAttribute.cs",
+              "RelativeToolTip": "Models\\uniqueAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T15:07:55.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AllCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Course\\AllCourses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\AllCourses.cshtml",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\MVC day2 task1 the lab one\\Views\\Course\\AllCourses.cshtml",
+              "RelativeToolTip": "Views\\Course\\AllCourses.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T17:33:42.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

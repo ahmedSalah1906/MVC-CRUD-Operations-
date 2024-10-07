@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "allInstructor";
+    Layout = "templet";
+}
+@model List<Instructor>
+
+<h1>allInstructor</h1>
+
+<table class=" container table-bordered table-hover " style="text-align:center ">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Salary</th>
+        <th>Department ID</th>
+        <th>Image</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr >
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.address</td>
+            <td>@item.salary</td>
+            <td>@item.DepartmentId</td>
+            <td><img src="/image/@item.image_url" width="100" height="100" alt="Instructor Image" /></td>
+            <td>
+                <button class="btn btn-danger" onclick="location.href='/Instructor/Delete/@item.Id'">Delete</button>
+                <button class="btn btn-primary" onclick="location.href='/Instructor/Edit?id=@item.Id'">Edit</button>
+                <button class="btn btn-success" onclick="location.href='/Instructor/Detlise?id=@item.Id'">Details</button>
+            </td>
+        </tr>
+    }
+</table>
+<button class="btn btn-success" onclick='location.href="/instructor/Add"'>ADD NEW</button>
+
